@@ -10,8 +10,8 @@ body {
 }
 
 .logo {
- width: 30%;
- height: 30%;
+ width: 50%;
+ height: 50%;
     display: block;
     margin: 0 auto;
 }
@@ -52,7 +52,7 @@ body {
     margin: 40%; /* Define a margem superior e inferior como 20px e centraliza horizontalmente */
     font-size: 300%;
     text-align: center;
-    font-family: fantasy;
+    font-family: cursive;
     color: #ffffff; /* texto branco */
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: #222;
