@@ -27,8 +27,8 @@ body {
 }
 
 .card {
-    background-color: #222; /* fundo escuro */
-    color: #fff; /* texto branco */
+    background-color: #fff; /* fundo escuro */
+    color: #222; /* texto branco */
     width: 300px;
     text-align: center;
     font-family: Impact, sans-serif;
