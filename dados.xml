@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+ <character>
+        <id>1</id>
+        <name>Pernalonga</name>
+        <description>Pernalonga é um coelho travesso e sarcástico que muitas vezes se encontra em confrontos com outros personagens dos Looney Tunes, especialmente Elmer Fudd.</description>
+    </character>
+    <character>
+        <id>2</id>
+        <name>Patolino</name>
+        <description>Patolino é um pato neurótico e engraçado que é frequentemente retratado como o melhor amigo de Pernalonga, embora suas interações muitas vezes resultem em confusão e caos.</description>
+    </character>
+    <character>
+        <id>3</id>
+        <name>Gaguinho</name>
+        <description>Gaguinho é um porco tímido e atrapalhado que muitas vezes se encontra em situações engraçadas com outros personagens dos Looney Tunes. Ele é conhecido por sua gagueira característica.</description>
+    </character>
+    <character>
+        <id>4</id>
+        <name>Frajola</name>
+        <description>Frajola é um gato ardiloso que passa a maior parte de seu tempo tentando capturar o Piu-Piu. Apesar de suas tentativas inúmeras, ele é frequentemente derrotado pelo pássaro astuto.</description>
+    </character>
+    <character>
+        <id>5</id>
+        <name>Piu-Piu</name>
+        <description>Piu-Piu é um pequeno pássaro amarelo que é constantemente perseguido pelo Frajola. Apesar de seu tamanho diminuto, Piu-Piu é capaz de se defender e muitas vezes vira o jogo contra seu perseguidor.</description>
+    </character>
+    <character>
+        <id>6</id>
+        <name>Marvin, o Marciano</name>
+        <description>Marvin, o Marciano, é um alienígena verde e estranho com planos frequentemente extravagantes para conquistar a Terra. Ele é conhecido por sua voz nasal e seu capacete de astronauta.</description>
+    </character>
+    <character>
+        <id>7</id>
+        <name>Lola Bunny</name>
+        <description>Lola Bunny é uma coelha atlética e inteligente que frequentemente se junta aos outros personagens dos Looney Tunes em suas aventuras. Ela é conhecida por sua personalidade confiante e seu talento no basquete.</description>
+    </character>
+    <character>
+        <id>8</id>
+        <name>Eufrazino</name>
+        <description>Eufrazino Puxa-Briga é um personagem dos Looney Tunes conhecido por sua personalidade rabugenta e por suas tentativas infrutíferas de caçar Pernalonga e Patolino.</description>
+    </character>
+    <character>
+        <id>9</id>
+        <name>Ligeirinho</name>
+        <description>Ligeirinho é um pequeno rato azul que é conhecido por sua velocidade incrível. Ele geralmente é mostrado como um mensageiro em situações cômicas.</description>
+    </character>
+    <character>
+        <id>10</id>
+        <name>Foghorn Leghorn</name>
+        <description>Foghorn Leghorn é um galo grande e barulhento que frequentemente se envolve em disputas com outros personagens, especialmente o Gaguinho. Ele é conhecido por sua voz forte e sua personalidade expansiva.</description>
+    </character>
+
+</personagens>
